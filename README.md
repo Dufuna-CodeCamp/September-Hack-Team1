@@ -1,9 +1,10 @@
 # September-Hack-Team1 🚩
-September Team 1 2021,  Repository
+
+Team 1 2021,  Repository
 
 This README explains how to get started with this repository.
 
-This repository contains code written by Team Niger for the Dufuna-CodeCamp 2020 first Hackathon.
+This repository contains code written by Team 2 for the Dufuna-CodeCamp September 2021 Hackathon.
 
 ## How to get started
 
