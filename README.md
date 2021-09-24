@@ -4,7 +4,7 @@ Team 1 2021,  Repository
 
 This README explains how to get started with this repository.
 
-This repository contains code written by Team 2 for the Dufuna-CodeCamp September 2021 Hackathon.
+This repository contains code written by Team 1 for the Dufuna-CodeCamp September 2021 Hackathon.
 
 ## How to get started
 
